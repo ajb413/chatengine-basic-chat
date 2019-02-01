@@ -10,7 +10,7 @@
 [Chat App Demo - Works on Mobile and Desktop](https://ajb413.github.io/chatengine-basic-chat/)
 
 ## Forking and Cloning
-In order to get this working in your own instance, you must sign up for a **free PubNub account** and hit the "Deploy ChatEngine" button. This will give you free API keys for the serverless app. **Use the form in this tutorial** to get going in 5 minutes: [ChatEngine Chat Tutorial](https://www.pubnub.com/blog/socket-io-chat-app-alternative/?devrel_gh=chatengine-basic-chat)
+In order to get this working in your own instance, you must sign up for a **free PubNub account** and hit the "Deploy ChatEngine" button. This will give you free API keys for the serverless app. **Use the form in this tutorial** to get going in 5 minutes: [Alternative to Building a Socket.IO Chat App](https://www.pubnub.com/blog/socket-io-chat-app-alternative/?devrel_gh=chatengine-basic-chat)
 
 ## Responsive Chat - Mobile and Desktop
 [![ChatEngine Basic Chat Screenshot](https://i.imgur.com/dFXfUBn.png)](https://www.pubnub.com/blog/socket-io-chat-app-alternative/?devrel_gh=chatengine-basic-chat)
